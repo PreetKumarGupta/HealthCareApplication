@@ -59,4 +59,6 @@ public class Doctor {
         this.phoneNumber = phoneNumber;
         return this;
     }
+
+    // this project is for healthcare management
 }
